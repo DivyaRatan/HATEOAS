@@ -1,0 +1,2 @@
+# HATEOAS
+using Collection
